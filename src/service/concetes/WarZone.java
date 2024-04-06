@@ -2,7 +2,7 @@ package service.concetes;
 
 import service.abstracts.CallOfDutyService;
 import service.abstracts.user.IUserService;
-
+// miras alma oop nin prinsiplerinden dir
 public class WarZone extends CallOfDutyService {
     public WarZone(IUserService iUserService) {
         super(iUserService);

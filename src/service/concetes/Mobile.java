@@ -2,7 +2,7 @@ package service.concetes;
 
 import service.abstracts.CallOfDutyService;
 import service.abstracts.user.IUserService;
-
+// miras alma oop nin prinsiplerinden dir
 public class Mobile extends CallOfDutyService {
     public Mobile(IUserService iUserService) {
         super(iUserService);
